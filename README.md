@@ -7,7 +7,7 @@ NOTES:
   - I seen two HW versions of this device, the latest one has a power switch as on the picture below. 
   ![New HW](/pictures/BAF-908_v1.4.jpg)
   
-  I would recommend to buy only this version because the older one has some bugs in Tuya MCU and the "Wi-Fi Off" (ESP8266 shutdown) feature doesn't work most probably to a shematic error (didn't dive into details).
+  I would recommend to buy only this version because the older one has some bugs in Tuya MCU and the "Wi-Fi Off" (ESP8266 shutdown) feature doesn't work most probably due to a shematic error (didn't dive into details). Also, the older HW has many wire jumpers.
   ![Old HW](/pictures/v1_inside1.jpg)
   ![Old HW](/pictures/v1_inside2.jpg)
   ![Old HW](/pictures/v1_inside3.jpg)
