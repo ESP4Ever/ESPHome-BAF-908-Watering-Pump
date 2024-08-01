@@ -4,7 +4,7 @@ This device is built on CB3S Tuya chip which shall be replaced to a ESP8266-base
 For such mods I'm using ESP07S because it has all pull-up/down resistors inside so no external components required, besides that it has 4MB flash - a lot of space for your code and OTA image. The only disadvantage of this module is an external antenna which require a "Tetris-playing", fitting it into small devices.
 
 NOTES:
-  - I seen two HW versions of this device, the latest one has a power switch as on the picture below. 
+  - I have two HW versions of this device, the latest one has a power switch as on the picture below. 
   ![New HW](/pictures/BAF-908_v1.4.jpg)
   
   I would recommend to buy only the new version because the older one has some bugs in Tuya MCU and the "Wi-Fi Off Schedule" (ESP8266 shutdown) feature doesn't work most probably due to a shematic error (didn't dive into details). Also, the older HW has many wire jumpers.
