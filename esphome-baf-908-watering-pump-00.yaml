@@ -143,9 +143,12 @@ sensor:
     entity_category: "diagnostic"
     disabled_by_default: true
 
+# Tuya
   - platform: "tuya"
     name: "Timer"
     sensor_datapoint: 102
+    icon: mdi:watering-can-outline
+    unit_of_measurement: s
     disabled_by_default: true
 
 ####################
